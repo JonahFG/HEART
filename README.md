@@ -33,6 +33,8 @@ The framework has been evaluated on FACED, SEED-VII, and SEED EEG datasets, demo
 - Transition speed and curvature along trajectories
 - Hybrid spatial-temporal feature vectors per trial
 
+![HEART Feature Extraction](images/HEART_feature_extraction.png)
+
 4. Classification
 
 - Random Forest regressors for continuous VAD prediction

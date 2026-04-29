@@ -47,8 +47,8 @@ The framework has been evaluated on FACED, SEED-VII, and SEED EEG datasets, demo
 HEART was evaluated on the following EEG datasets:
 
 - <a href="https://www.synapse.org/Synapse:syn50614194/wiki/620378" target="_blank" rel="noopener noreferrer">FACED</a>: 32-channel EEG from 123 participants across 9 emotion categories
-- SEED-VII: 62-channel EEG from 20 participants with 7 emotions, including continuous intensity labels
-- SEED: 62-channel EEG from 15 participants across 3 emotion categories
+- <a href="https://bcmi.sjtu.edu.cn/home/seed/seed-vii.html" target="_blank" rel="noopener noreferrer">SEED-VII</a>: 62-channel EEG from 20 participants with 7 emotions, including continuous intensity labels
+- <a href="https://bcmi.sjtu.edu.cn/home/seed/seed.html" target="_blank" rel="noopener noreferrer">SEED</a>: 62-channel EEG from 15 participants across 3 emotion categories
 
 Note: These datasets are not included due to access restrictions. Researchers must request access from the respective dataset owners. Synthetic example data is provided for running the notebooks without the real datasets.
 

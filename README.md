@@ -10,7 +10,7 @@ HEART is a Python framework for emotion recognition from EEG signals. It integra
 
 The framework has been evaluated on FACED, SEED-VII, and SEED EEG datasets, demonstrating robust performance across subjects and sessions.
 
-![Descripción de la imagen](HEART/HEART_pipeline_2.png)
+![HEART Pipeline](images/HEART_pipeline_2.png)
 
 ## Features
 
